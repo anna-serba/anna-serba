@@ -8,4 +8,3 @@ My weaknesses:
 
 I do not have any bad habits. In my free time I do sports
 
-<a href="https://codesandbox.io/s/polished-wind-rj2ll5?file=/src/App.js">Example code</a>
